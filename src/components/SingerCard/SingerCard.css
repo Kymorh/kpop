@@ -1,0 +1,32 @@
+
+
+.singer1{
+    width: 100%;
+    display: flex;
+   
+    justify-content: space-around;
+    flex-direction: row-reverse;
+    
+}
+.singer2{
+    width: 100%;
+    display: flex;
+   
+    justify-content: space-around;
+    flex-direction: row;
+    
+}
+.info1{
+padding: 20px;
+    /* width: 40%; */
+
+}
+.singer1 img{
+    width: 600px;
+}
+.singer2 img{
+ width: 600px;
+}
+.mot{
+    position: relative;
+}

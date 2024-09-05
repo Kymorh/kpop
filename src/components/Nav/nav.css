@@ -1,0 +1,36 @@
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+
+
+}
+
+a:hover {
+    color: #ffffff;
+}
+
+.nav {
+
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    /* padding-top:41px ; */
+    height: 40px;
+   z-index: 2;
+   position: relative;
+    padding-top: 41px;
+}
+
+span {
+    justify-self: start;
+}
+
+.ma {
+    display: flex;
+    gap: 30px;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+img{
+    width: 80px;
+}
